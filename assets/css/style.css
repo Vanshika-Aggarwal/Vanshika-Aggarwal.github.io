@@ -448,6 +448,9 @@ h3 {
 
 .card .card-title {
   font-size: 24px;
+}
+
+.card-title {
   color: black;
 }
 
