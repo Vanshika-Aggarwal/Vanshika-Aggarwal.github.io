@@ -1,5 +1,5 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Portfólio pessoal ⚡️ 
+> Um modelo de portfólio limpo, bonito e responsivo para desenvolvedores de software!
 
 > https://ktopdelinha.github.io
 
