@@ -5,15 +5,15 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/ktopdelinha/ktopdelinha.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://ktopdelinha.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/cleber-mantuano-12155ab4)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Prévia do site
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.png">
+    <a href="https://ktopdelinha.github.io" target="_blank"><img src="examples/preview.png">
   </a>
   </kbd>
 </p>
