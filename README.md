@@ -20,7 +20,7 @@
 
 ⭐ Estrela no meu GitHub — ajuda muito! ⭐
 
-##Recursos 📋
+## Recursos 📋
 
 Totalmente responsivo ⚡️
 HTML5 e CSS3 válidos ⚡️
