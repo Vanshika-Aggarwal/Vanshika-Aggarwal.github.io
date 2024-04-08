@@ -18,7 +18,8 @@
   </kbd>
 </p>
 <br>
-⭐ Estrela no meu GitHub — ajuda muito! ⭐
+
+## ⭐ Estrela no meu GitHub — ajuda muito! ⭐
 
 ## Recursos 📋
 
