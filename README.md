@@ -13,7 +13,7 @@
 ### Prévia do site
 <p align="center"> 
   <kbd>
-    <a href="https://ktopdelinha.github.io" target="_blank"><img src="examples/preview.png">
+    <a href="https://ktopdelinha.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
