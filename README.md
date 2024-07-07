@@ -3,7 +3,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/op2.gif">
+    <a href="https://-Vanshika-Aggarwal.github.io" target="_blank"><img src="examples/op2.gif">
   </a>
   </kbd>
 </p>
