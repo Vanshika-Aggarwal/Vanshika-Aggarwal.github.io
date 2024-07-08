@@ -3,5 +3,5 @@ User-agent: Googlebot
 Disallow: /nogooglebot/
 
 # Group 2
-User-agent: *
+User-agent:  *
 Allow: /
